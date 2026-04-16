@@ -28,8 +28,6 @@ RFNN_wave_propagation_open_source_kit/
 ├── .gitignore
 ├── CONTRIBUTING.md
 ├── CODE_OF_CONDUCT.md
-├── manuscript/
-│   └── RFNN.tex
 └── notebooks/
     ├── 1D-RNN-PEC.ipynb
     ├── 1D-RNN-absorbing.ipynb
