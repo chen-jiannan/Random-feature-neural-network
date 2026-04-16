@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the software release and the accompanying manuscript."
+title: "RFNN-Based Wave Propagation Benchmarks"
+type: software
+authors:
+  - family-names: "Chen"
+    given-names: "Jian-Nan"
+    email: "chennn1994@alumni.sjtu.edu.cn"
+  - family-names: "Zhang"
+    given-names: "Jun-Jie"
+    email: "zjacob@mail.ustc.edu.cn"
+  - family-names: "Li"
+    given-names: "Yong-Dong"
+    email: "leyond@mail.xjtu.edu.cn"
+abstract: "Code and manuscript source for RFNN-based wave-propagation benchmarks with Dirichlet boundaries, damping absorbing layers, and heterogeneous media."
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-04-16"
+repository-code: "https://github.com/your-username/rfnn-wave-propagation"
+keywords:
+  - RFNN
+  - wave equation
+  - PINN
+  - FDTD
+  - absorbing layer
+  - heterogeneous medium
