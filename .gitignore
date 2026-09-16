@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+outputs/
+results*/
+*.npy
+*.npz
+*.pth
+*.pt
+*.pkl
+*.pdf
+*.png

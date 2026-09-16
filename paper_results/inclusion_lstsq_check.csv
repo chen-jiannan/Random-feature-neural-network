@@ -1,0 +1,3 @@
+method,q_in,c_in_over_c_out,relative_L2_mean,relative_L2_std,relative_L2_min,relative_L2_max,n_seeds
+global_RF,0.25,0.5,0.20986190567030713,0.0,0.20986190567030713,0.20986190567030713,1
+partitioned_interface_RF,0.25,0.5,0.011382557827797493,0.0,0.011382557827797493,0.011382557827797493,1

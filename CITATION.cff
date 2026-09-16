@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript."
+title: "Global random-feature collocation for time-domain wave equations"
+type: software
+authors:
+  - family-names: "Chen"
+    given-names: "Jian-Nan"
+  - family-names: "Li"
+    given-names: "Yong-Dong"
+repository-code: "https://github.com/chen-jiannan/Random-feature-neural-network"
+version: "2.0.0"
+date-released: "2026-09-16"
+preferred-citation:
+  type: article
+  title: "Global random-feature collocation for time-domain wave equations: a systematic assessment of resolution, conditioning, and applicability limits"
+  authors:
+    - family-names: "Chen"
+      given-names: "Jian-Nan"
+    - family-names: "Li"
+      given-names: "Yong-Dong"

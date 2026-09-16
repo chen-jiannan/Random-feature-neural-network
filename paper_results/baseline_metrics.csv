@@ -1,0 +1,10 @@
+case,method,relative_L2_percent,offline_or_training_s,prediction_s,notes
+1D homogeneous,RFNN,0.42,0.36,0.00304,paper-reported timing
+1D homogeneous,PINN (Adam),62.66,6220,6.31,paper-reported timing
+2D homogeneous,RFNN,0.77,6.34,7.66,confirmed canonical value
+2D homogeneous,PINN (Adam),3.85,15500,12.68,paper-reported timing
+3D homogeneous,RFNN,2.38,22.21,23.60,confirmed final run
+3D homogeneous,PINN (Adam),7.19,40476,25.92,paper-reported timing
+1D damping,RFNN,3.44,0.84,,paper table
+2D damping,RFNN,1.41,3.91,,paper table
+1D smooth heterogeneous,RFNN,2.57,,,beta=0.18
